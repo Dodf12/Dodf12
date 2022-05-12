@@ -14,7 +14,7 @@ I’m currently learning a bunch of random stuff
 -JS
 
 _________________________________________________________________________________________________________________________________________________________________________
-
+Right know I am in Computer Science class
 
 <!--
 **Dodf12/Dodf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
