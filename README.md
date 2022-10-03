@@ -1,10 +1,9 @@
 ### "Hello World"
 
-Dodf12 here
+Dodf12 here ![image](https://user-images.githubusercontent.com/87663453/193499611-daa3fa98-352d-43f1-b02f-b34489349166.png)
 
-High School Sophmore
-
-Help me
+I am a high school student who is just learning to code as has many big ideas for the future. 
+I am dabbling in UI's and Machine Learning.
 
 _________________________________________________________________________________________________________________________________________________________________________
 I’m currently learning a bunch of random stuff
