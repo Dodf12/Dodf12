@@ -4,14 +4,14 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 
 
 
-I am a high school student who is just learning to code as has many big ideas for the future. 
-I am dabbling in UI's and Machine Learning.
+
 
 _________________________________________________________________________________________________________________________________________________________________________
 I’m currently learning a bunch of random stuff
 
 -C++
 -JS
+-NLP
 
 _________________________________________________________________________________________________________________________________________________________________________
 
