@@ -2,6 +2,8 @@
 
 Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/193499722-ef9f38a0-7ad3-4a1e-a7fa-225a64f54cef.png) ![image](https://user-images.githubusercontent.com/87663453/193499767-aa9d0bb4-be31-4cbe-828b-c3c837a1f85d.png)
 
+Powered by ![image](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
+
 
 Proud User of:
 ![image](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
