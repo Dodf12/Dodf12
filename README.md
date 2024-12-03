@@ -4,7 +4,19 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 
 
 ```
-print("hello")
+.json
+{  
+  "user": {
+    "dodf12": {
+        "pronouns": "lol" || "lmao"  
+        "name":       "Dodf12",   
+        "salary":      56000,   
+        "married":    true  
+      }  
+    }
+
+  }
+}  
 
 ```
  
