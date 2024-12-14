@@ -4,17 +4,21 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 
 
 ```
-{  
-  "user": 
-    {
-      "dodf12": 
+{ 
+  "object":
+  { 
+    "user": 
       {
-        "pronouns": "he" || "him"  
-        "name":       "Dodf12",   
-        "Skills":      56000,   
-        "Flair":    true  
-      }  
-    }
+        "dodf12": 
+        {
+          "Education": "Computer Science @Santa Clara";
+          "pronouns": "he" || "him" ; 
+          "name":       "Dodf12";  
+          "Skills":      "Python", "Java", "C++", "git"; 
+          "Currently Learning":    "NextJs", "Go", "MongoDB"; 
+        }  
+      }
+  }
 
  }
 
@@ -22,7 +26,7 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 ```
  
 
-_________________________________________________________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________________________________________________________________
 I’m currently learning a bunch of random stuff
 
 -C++
