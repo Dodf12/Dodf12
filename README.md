@@ -2,21 +2,20 @@
 
 Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/193499722-ef9f38a0-7ad3-4a1e-a7fa-225a64f54cef.png) ![image](https://user-images.githubusercontent.com/87663453/193499767-aa9d0bb4-be31-4cbe-828b-c3c837a1f85d.png)
 
-
 ```
-{ 
+{
   "object":
-  { 
-    "user": 
+  {
+    "user":
       {
-        "dodf12": 
+        "dodf12":
         {
           "Education": "Computer Science @Santa Clara";
-          "pronouns": "he" || "him" ; 
-          "name":       "Dodf12";  
-          "Skills":      "Python", "Java", "C++", "git"; 
-          "Currently Learning":    "NextJs", "Go", "MongoDB"; 
-        }  
+          "pronouns": "he" || "him" ;
+          "name":       "Dodf12";
+          "Skills":      "Python", "Java", "C++", "git";
+          "Currently Learning":    "NextJs", "Go", "MongoDB";
+        }
       }
   }
 
@@ -24,27 +23,25 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 
 
 ```
- 
 
-________________________________________________________________________________________________________________________________________________________________________
+---
+
 I’m currently learning a bunch of random stuff
 
 -C++
 -JS
 -NLP
 
-_________________________________________________________________________________________________________________________________________________________________________
+---
 
 Fluent in:
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
 Know Some of:
-![image](	https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 Learning:
-![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![image](	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](	https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![image](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 Forgot 😔
 ![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![image](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
