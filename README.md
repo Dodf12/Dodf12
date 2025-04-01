@@ -10,7 +10,7 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
       {
         "dodf12":
         {
-          "Education": "Computer Science @Santa Clara";
+          "Education": "Computer Science @SCU";
           "pronouns": "he" || "him" ;
           "name":       "Dodf12";
           "Skills":      "Python", "Java", "C++", "git";
