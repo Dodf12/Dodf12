@@ -27,7 +27,7 @@ Dodf12 here!![image](https://user-images.githubusercontent.com/87663453/19349972
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dodf12&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=SCSS,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=SCSS,html&langs_count=8)
 <!--
 **Dodf12/Dodf12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
